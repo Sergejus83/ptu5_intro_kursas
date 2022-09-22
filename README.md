@@ -1,4 +1,4 @@
 # ptu5_intro_kursas
 
-Cia rasite visa su ku
+Cia rasite nauja medziaga
 PTU 5 intro python kursas
